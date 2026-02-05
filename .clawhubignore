@@ -1,0 +1,11 @@
+src/
+tsconfig.json
+.env
+.DS_Store
+*.log
+SKILL.md
+.git/
+node_modules/
+tests/
+jest.config.js
+coverage/
